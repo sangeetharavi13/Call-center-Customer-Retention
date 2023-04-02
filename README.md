@@ -23,14 +23,13 @@ The retention department wants to get customers back in case of termination. Cur
 
 ### Churn Dashboard
 
-![Churn Dashboard](Churn Dashboard.png)
+![Churn Dashboard](https://user-images.githubusercontent.com/125726682/229383277-2efebec1-e48b-4fea-8114-b7daefe6fc2c.png)
 
 ### Customer Risk Analysis
 
-![Customer Risk Analysis](Customer Risk Analysis.png)
+![Customer Risk Analysis](https://user-images.githubusercontent.com/125726682/229383292-d176b37f-79b6-45b3-abf3-0f17e41ad2e7.png)
 
 ## Findings
-
 * Increase tech support capacity for Fiber Optic customers 
 * lower tech tickets per customer to 0.5
 * Increase sale of 1 and 2 year contracts by 5% each
