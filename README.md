@@ -23,9 +23,11 @@ The retention department wants to get customers back in case of termination. Cur
 
 ### Churn Dashboard
 
+![Churn Dashboard](Churn Dashboard.png)
 
 ### Customer Risk Analysis
 
+![Customer Risk Analysis](Customer Risk Analysis.png)
 
 ## Findings
 
